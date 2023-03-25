@@ -1,0 +1,3 @@
+CriticalCodeUnit.c:21:6:InitSemaphore	8	static
+CriticalCodeUnit.c:27:6:SetShared	16	static
+CriticalCodeUnit.c:41:5:GetShared	16	static

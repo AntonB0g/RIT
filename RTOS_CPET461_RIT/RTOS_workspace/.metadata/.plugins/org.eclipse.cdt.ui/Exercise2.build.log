@@ -1,0 +1,12 @@
+20:27:10 **** Incremental Build of configuration Debug for project Exercise2 ****
+make -j16 all 
+arm-none-eabi-g++ -o "Exercise2.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\RIT_Spring2023\RTOS_CPET461_RIT\RTOS_workspace\Exercise2\STM32F411VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Exercise2.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Core/Src/main.o: In function `StartDefaultTask':
+D:/RIT_Spring2023/RTOS_CPET461_RIT/RTOS_workspace/Exercise2/Debug/../Core/Src/main.c:459: undefined reference to `vTaskDelayUntil'
+D:/RIT_Spring2023/RTOS_CPET461_RIT/RTOS_workspace/Exercise2/Debug/../Core/Src/main.c:463: undefined reference to `vTaskDelayUntil'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:60: Exercise2.elf] Error 1
+"make -j16 all" terminated with exit code 2. Build might be incomplete.
+
+20:27:12 Build Failed. 3 errors, 0 warnings. (took 2s.559ms)
+

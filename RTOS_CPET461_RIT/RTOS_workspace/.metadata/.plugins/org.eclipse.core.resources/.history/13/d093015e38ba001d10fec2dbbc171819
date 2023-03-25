@@ -1,0 +1,28 @@
+/*
+ * CriticalCodeUnit.h
+ *
+ *  Created on: Mar 3, 2023
+ *      Author: tonyb
+ */
+#ifndef INC_CRITICALCODEUNIT_H_
+#define INC_CRITICALCODEUNIT_H_
+
+#include "FreeRTOS.h"
+#include "semphr.h"
+
+typedef struct SharedPool
+{
+	int RedFlashingRate; //Shared Resource 1 ~ Red Task Flashing Rate
+	int GreenFlashingRate; //Shared Resource 1 ~ Green Task Flashing Rate
+};
+
+struct SharedPool SharedPoolData = {1, 10}; // Default Values for Flashing Rate of Leds in Hz
+
+SemaphoreHandle_t PoolSemaphore;
+xSemaphoreGive(SemaphoreHandle_t PoolSemaphore);
+
+void InitSemaphore(void);
+void SetShared(struct SharedPool SharedResource, int x);
+int GetShared(void);
+
+#endif /* INC_CRITICALCODEUNIT_H_ */

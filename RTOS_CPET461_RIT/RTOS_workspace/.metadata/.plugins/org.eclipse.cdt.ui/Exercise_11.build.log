@@ -1,0 +1,31 @@
+11:04:38 **** Incremental Build of configuration Debug for project Exercise_11 ****
+make -j16 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F411xE -DDEBUG -c -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I../Drivers/CMSIS/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Core/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'Start_GreenLED_Task':
+../Core/Src/main.c:497:6: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+      for(int i = 0; i < 75000; i++); // 0.5 seconds software delay used not to suspend the task (the task has to run)
+      ^~~
+../Core/Src/main.c:498:5: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'for'
+     HAL_GPIO_WritePin(GPIOD, green, GPIO_PIN_RESET); // Reset Green LED
+     ^~~~~~~~~~~~~~~~~
+../Core/Src/main.c: In function 'Start_OrangeLED_Task':
+../Core/Src/main.c:550:7: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+       for(int i = 0; i < 75000; i++); // 0.5 seconds software delay used not to suspend the task (the task has to run)
+       ^~~
+../Core/Src/main.c:551:4: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'for'
+    HAL_GPIO_WritePin(GPIOD, orange, GPIO_PIN_RESET); // Reset Green LED
+    ^~~~~~~~~~~~~~~~~
+arm-none-eabi-g++ -o "Exercise_11.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\RIT_Spring2023\RTOS_CPET461_RIT\RTOS_workspace\Exercise_11\STM32F411VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Exercise_11.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: Exercise_11.elf
+ 
+arm-none-eabi-objdump -h -S  Exercise_11.elf  > "Exercise_11.list"
+arm-none-eabi-size   Exercise_11.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23636	     28	  18252	  41916	   a3bc	Exercise_11.elf
+Finished building: default.size.stdout
+ 
+Finished building: Exercise_11.list
+ 
+
+11:04:40 Build Finished. 0 errors, 2 warnings. (took 2s.38ms)
+

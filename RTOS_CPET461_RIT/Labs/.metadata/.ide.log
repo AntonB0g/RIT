@@ -1,0 +1,2172 @@
+2023-02-03 14:19:48,123 [INFO] Activator:176 - 
+
+
+2023-02-03 14:19:48,126 [INFO] Activator:177 - !SESSION log4j initialized
+2023-02-03 14:20:04,835 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-03 14:20:04,848 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-03 14:20:04,852 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-03 14:20:04,853 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-03 14:20:04,853 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-03 14:20:04,854 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-03 14:20:05,016 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,017 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,018 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,021 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,022 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,033 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-03 14:20:05,131 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2023-02-03 14:20:05,207 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2023-02-03 14:20:05,207 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-03 14:20:05,207 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-03 14:20:05,207 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-03 14:20:05,208 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-03 14:20:05,208 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-03 14:20:05,208 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,208 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,208 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,208 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,209 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,209 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,209 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,209 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,210 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,210 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,210 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,210 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,211 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-03 14:20:05,274 [INFO] MainPanel:185 - HeapMemory: 293601280
+2023-02-03 14:20:05,328 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-03 14:20:05,328 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-03 14:20:05,328 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-03 14:20:05,328 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-03 14:20:05,328 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-03 14:20:05,329 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,329 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,329 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,329 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,330 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,330 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,330 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,330 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,330 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,330 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-03 14:20:05,330 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,330 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-03 14:20:05,331 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-03 14:20:05,348 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-03 14:20:05,349 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2023-02-03 14:20:05,350 [INFO] PluginManage:292 - Check plugin analytics
+2023-02-03 14:20:05,376 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2023-02-03 14:20:05,376 [INFO] PluginManage:292 - Check plugin clock
+2023-02-03 14:20:05,394 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2023-02-03 14:20:05,394 [INFO] PluginManage:292 - Check plugin ddr
+2023-02-03 14:20:05,396 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2023-02-03 14:20:05,396 [INFO] PluginManage:292 - Check plugin filemanager
+2023-02-03 14:20:05,513 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2023-02-03 14:20:05,513 [INFO] PluginManage:292 - Check plugin ipmanager
+2023-02-03 14:20:05,522 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2023-02-03 14:20:05,522 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2023-02-03 14:20:05,541 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2023-02-03 14:20:05,541 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2023-02-03 14:20:05,563 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2023-02-03 14:20:05,563 [INFO] PluginManage:292 - Check plugin power
+2023-02-03 14:20:05,603 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2023-02-03 14:20:05,603 [INFO] PluginManage:292 - Check plugin projectmanager
+2023-02-03 14:20:05,621 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2023-02-03 14:20:05,621 [INFO] PluginManage:292 - Check plugin thirdparty
+2023-02-03 14:20:05,693 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 27 ms. number of Sw pack : 13
+2023-02-03 14:20:05,714 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2023-02-03 14:20:05,714 [INFO] PluginManage:292 - Check plugin tools
+2023-02-03 14:20:05,733 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2023-02-03 14:20:05,733 [INFO] PluginManage:292 - Check plugin updater
+2023-02-03 14:20:05,744 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2023-02-03 14:20:05,744 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2023-02-03 14:20:05,885 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-03 14:20:05,994 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:05,994 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2023-02-03 14:20:06,009 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,009 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2023-02-03 14:20:06,029 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,029 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2023-02-03 14:20:06,040 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,040 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2023-02-03 14:20:06,056 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,057 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2023-02-03 14:20:06,073 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,074 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2023-02-03 14:20:06,121 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,123 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2023-02-03 14:20:06,135 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,135 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2023-02-03 14:20:06,158 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,159 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2023-02-03 14:20:06,168 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,168 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2023-02-03 14:20:06,180 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,180 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2023-02-03 14:20:06,218 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,219 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2023-02-03 14:20:06,298 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,299 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2023-02-03 14:20:06,373 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,373 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2023-02-03 14:20:06,477 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,477 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2023-02-03 14:20:06,509 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,510 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2023-02-03 14:20:06,526 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,526 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2023-02-03 14:20:06,555 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,556 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2023-02-03 14:20:06,579 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,579 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2023-02-03 14:20:06,618 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,619 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2023-02-03 14:20:06,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,637 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2023-02-03 14:20:06,699 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,699 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2023-02-03 14:20:06,792 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,792 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2023-02-03 14:20:06,811 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,811 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2023-02-03 14:20:06,833 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,833 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2023-02-03 14:20:06,936 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,938 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2023-02-03 14:20:06,954 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,954 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2023-02-03 14:20:06,961 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,961 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2023-02-03 14:20:06,983 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:06,983 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2023-02-03 14:20:07,001 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,002 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2023-02-03 14:20:07,019 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,019 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2023-02-03 14:20:07,032 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,032 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2023-02-03 14:20:07,057 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,057 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2023-02-03 14:20:07,069 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,069 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2023-02-03 14:20:07,082 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,082 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2023-02-03 14:20:07,092 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,093 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2023-02-03 14:20:07,105 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,106 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2023-02-03 14:20:07,125 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-03 14:20:07,126 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2023-02-03 14:20:07,776 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: Windows
+2023-02-03 14:20:07,880 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-03 14:20:07,881 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2023-02-03 14:20:08,035 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-03 14:20:08,209 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-03 14:20:08,214 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-03 14:20:08,215 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-03 14:20:08,219 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-03 14:20:08,219 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-03 14:20:08,226 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2023-02-03 14:20:08,661 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-03 14:20:08,681 [INFO] Updater:886 - Updater Version found : 5.4.0
+2023-02-03 14:20:08,698 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-03 14:20:08,710 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-03 14:20:08,710 [ERROR] IntegrityCheckThread:230 - Cannot obtain thirdParties list 21
+2023-02-03 14:20:08,710 [ERROR] IntegrityCheckThread:99 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2023-02-03 14:20:08,711 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-03 14:20:08,798 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-03 14:20:08,799 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2023-02-03 14:20:08,800 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2023-02-03 14:20:08,844 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2023-02-03 14:20:09,023 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-03 14:20:09,024 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2023-02-03 14:20:09,160 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2023-02-03 14:20:09,174 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2023-02-03 14:20:09,177 [INFO] DbMcusXml:106 - Load MCU database from C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2023-02-03 14:20:09,747 [INFO] DbMcusJson:87 - JSON generation date=Mon Sep 23 05:35:45 EDT 2019 (1569231345)
+2023-02-03 14:20:10,614 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2023-02-03 14:20:10,614 [INFO] ApiDb:147 - User favorites file not found: C:\Users\tonyb/.stm32cubeide/favorites.mcus.txt
+2023-02-03 14:20:10,616 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2023-02-03 14:20:11,389 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2023-02-03 14:20:11,392 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2023-02-03 14:20:11,394 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/tonyb/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2023-02-03 14:20:12,314 [INFO] ServerAccessManage:348 - Download File mcusDocs.json
+2023-02-03 14:20:12,357 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2023-02-03 14:20:12,428 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json
+2023-02-03 14:20:12,947 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2023-02-03 14:20:13,100 [INFO] ServerAccessManage:348 - Download File mcusAds.json
+2023-02-03 14:20:13,124 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2023-02-03 14:20:13,234 [INFO] ServerAccessManage:348 - Download File boardsDocs.json
+2023-02-03 14:20:13,260 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2023-02-03 14:20:13,413 [INFO] ServerAccessManage:348 - Download File boards.json
+2023-02-03 14:20:13,435 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2023-02-03 14:20:14,358 [INFO] ServerAccessManage:348 - Download File crdb.zip
+2023-02-03 14:20:14,961 [INFO] FileExtend:210 - Unzip File : crdb.zip
+2023-02-03 14:20:14,964 [INFO] FileExtend:225 - Standard Zip Deflate
+2023-02-03 14:20:15,012 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2023-02-03 14:20:15,020 [INFO] DbMcusDocs:126 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-03 14:20:15,208 [INFO] DbMcusDocs:61 - Found 521 MCUs documents
+2023-02-03 14:20:15,209 [INFO] ApiDb:186 - Save user favorites file C:\Users\tonyb/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-02-03 14:20:15,209 [INFO] ApiDb:191 - User favorites MCUs=[]
+2023-02-03 14:20:15,209 [INFO] DbMcusXml:106 - Load MCU database from C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2023-02-03 14:20:15,671 [INFO] DbMcusJson:87 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-03 14:20:16,393 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2023-02-03 14:20:16,393 [INFO] ApiDb:158 - Load user favorites file C:\Users\tonyb/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-02-03 14:20:16,395 [INFO] ApiDb:163 - User favorites MCUs=[]
+2023-02-03 14:20:16,395 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2023-02-03 14:20:16,451 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2023-02-03 14:20:16,683 [INFO] DbBoardsDocs:118 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-03 14:20:16,700 [INFO] DbBoardsPdsc:92 - Found 19 items
+2023-02-03 14:20:16,707 [INFO] DbBoardsPdsc:92 - Found 9 items
+2023-02-03 14:20:16,717 [INFO] DbBoardsPdsc:92 - Found 27 items
+2023-02-03 14:20:16,723 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-03 14:20:16,734 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-03 14:20:16,750 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-03 14:20:16,756 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-03 14:20:16,799 [INFO] DbBoardsJson:79 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-03 14:20:16,806 [INFO] DbBoards:120 - Found 163 boards (132 are supported by CubeMX)
+2023-02-03 14:20:16,809 [INFO] DbBoardsDocs:118 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-03 14:20:16,815 [INFO] DbBoardsDocs:57 - Found 209 boards documents
+2023-02-03 14:20:16,816 [WARN] DbBoards:130 - board NUCLEO-H743ZI has no document id list !
+2023-02-03 14:20:16,817 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2023-02-03 14:20:16,818 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2023-02-03 14:20:16,818 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2023-02-03 14:20:16,818 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2023-02-03 14:20:16,819 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2023-02-03 14:20:16,819 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2023-02-03 14:20:16,820 [WARN] DbBoards:130 - board STM32439I-EVAL2 has no document id list !
+2023-02-03 14:20:16,820 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2023-02-03 14:20:16,820 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2023-02-03 14:20:16,821 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2023-02-03 14:20:16,821 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2023-02-03 14:20:16,822 [WARN] DbBoards:130 - board STEVAL-STWINKT1B has no document id list !
+2023-02-03 14:20:16,822 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2023-02-03 14:20:16,822 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2023-02-03 14:20:16,822 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2023-02-03 14:20:16,924 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-F413ZH: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-f413zh_small.jpg
+2023-02-03 14:20:16,991 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-L552ZE-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo_l552ze_q_small.jpg
+2023-02-03 14:20:17,139 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2023-02-03 14:20:17,459 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2023-02-03 14:20:17,988 [ERROR] DbBoards:192 - Image file not found for board B-L462E-CELL1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L462E-CELL1_small.jpg
+2023-02-03 14:20:17,992 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WL55JC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wl55jc-small.jpg
+2023-02-03 14:20:17,992 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2023-02-03 14:20:17,992 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2023-02-03 14:20:17,992 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-EVAL: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3ieval_small.jpg
+2023-02-03 14:20:17,996 [ERROR] DbBoards:192 - Image file not found for board STM32L4P5G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32l4p5g-dk_small.jpg
+2023-02-03 14:20:18,006 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2023-02-03 14:20:18,010 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB55RG: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb55rg_small.jpg
+2023-02-03 14:20:18,013 [ERROR] DbBoards:192 - Image file not found for board STM32G0C1E-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0c1e-eval_small.jpg
+2023-02-03 14:20:18,013 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB15CC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb15cc_small.jpg
+2023-02-03 14:20:18,013 [ERROR] DbBoards:192 - Image file not found for board STM32WB5MM-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32WB5MM-DK_small.jpg
+2023-02-03 14:20:18,013 [ERROR] DbBoards:192 - Image file not found for board B-U585I-IOT02A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-U585I-IOT02A_small.jpg
+2023-02-03 14:20:18,014 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-U575ZI-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-u575zi-q_small.jpg
+2023-02-03 14:20:18,014 [ERROR] DbBoards:192 - Image file not found for board STM32U575I-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32u575i-ev_small.jpg
+2023-02-03 14:20:18,014 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1B: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1b_small.jpg
+2023-02-03 14:20:18,014 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v1b.jpg
+2023-02-03 14:20:18,014 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V2: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v2b.jpg
+2023-02-03 14:20:18,014 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1_small.jpg
+2023-02-03 14:20:18,014 [INFO] ApiDb:147 - User favorites file not found: C:\Users\tonyb/.stm32cubeide/favorites.boards.txt
+2023-02-03 14:20:18,014 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2023-02-03 14:20:18,016 [INFO] DbBoardsDocs:57 - Found 418 boards documents
+2023-02-03 14:20:18,016 [INFO] ApiDb:186 - Save user favorites file C:\Users\tonyb/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2023-02-03 14:20:18,016 [INFO] ApiDb:191 - User favorites Boards=[]
+2023-02-03 14:20:18,018 [INFO] DbBoardsPdsc:92 - Found 19 items
+2023-02-03 14:20:18,019 [INFO] DbBoardsPdsc:92 - Found 9 items
+2023-02-03 14:20:18,020 [INFO] DbBoardsPdsc:92 - Found 27 items
+2023-02-03 14:20:18,022 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-03 14:20:18,025 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-03 14:20:18,028 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-03 14:20:18,029 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-03 14:20:18,042 [INFO] DbBoardsJson:79 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-03 14:20:18,046 [INFO] DbBoards:120 - Found 163 boards (132 are supported by CubeMX)
+2023-02-03 14:20:18,047 [WARN] DbBoards:130 - board NUCLEO-H743ZI has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board STM32439I-EVAL2 has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2023-02-03 14:20:18,048 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2023-02-03 14:20:18,049 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2023-02-03 14:20:18,049 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2023-02-03 14:20:18,049 [WARN] DbBoards:130 - board STEVAL-STWINKT1B has no document id list !
+2023-02-03 14:20:18,049 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2023-02-03 14:20:18,049 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2023-02-03 14:20:18,049 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2023-02-03 14:20:18,071 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-F413ZH: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-f413zh_small.jpg
+2023-02-03 14:20:18,095 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-L552ZE-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo_l552ze_q_small.jpg
+2023-02-03 14:20:18,209 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2023-02-03 14:20:18,326 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2023-02-03 14:20:18,529 [ERROR] DbBoards:192 - Image file not found for board B-L462E-CELL1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L462E-CELL1_small.jpg
+2023-02-03 14:20:18,534 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WL55JC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wl55jc-small.jpg
+2023-02-03 14:20:18,534 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2023-02-03 14:20:18,534 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2023-02-03 14:20:18,534 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-EVAL: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3ieval_small.jpg
+2023-02-03 14:20:18,536 [ERROR] DbBoards:192 - Image file not found for board STM32L4P5G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32l4p5g-dk_small.jpg
+2023-02-03 14:20:18,546 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2023-02-03 14:20:18,550 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB55RG: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb55rg_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board STM32G0C1E-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0c1e-eval_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB15CC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb15cc_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board STM32WB5MM-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32WB5MM-DK_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board B-U585I-IOT02A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-U585I-IOT02A_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-U575ZI-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-u575zi-q_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board STM32U575I-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32u575i-ev_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1B: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1b_small.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v1b.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V2: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v2b.jpg
+2023-02-03 14:20:18,553 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1_small.jpg
+2023-02-03 14:20:18,554 [INFO] ApiDb:158 - Load user favorites file C:\Users\tonyb/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2023-02-03 14:20:18,554 [INFO] ApiDb:163 - User favorites Boards=[]
+2023-02-03 14:20:18,554 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2023-02-03 14:20:18,675 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2023-02-03 14:20:18,677 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2023-02-03 14:20:18,858 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2023-02-03 14:20:18,858 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/tonyb/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2023-02-03 14:20:18,884 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2023-02-03 14:20:18,974 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\tonyb\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2023-02-04 09:46:23,931 [INFO] Activator:176 - 
+
+
+2023-02-04 09:46:23,934 [INFO] Activator:177 - !SESSION log4j initialized
+2023-02-04 09:46:53,352 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-04 09:46:53,381 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-04 09:46:53,385 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-04 09:46:53,386 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 09:46:53,386 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 09:46:53,389 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-04 09:46:53,401 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:53,401 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:53,404 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:53,405 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:53,406 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,231 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-04 09:46:54,317 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2023-02-04 09:46:54,399 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2023-02-04 09:46:54,399 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-04 09:46:54,400 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-04 09:46:54,400 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 09:46:54,401 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 09:46:54,401 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-04 09:46:54,401 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,401 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,401 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,401 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,401 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,401 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,402 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,402 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,402 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,402 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,402 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,402 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,402 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-04 09:46:54,468 [INFO] MainPanel:185 - HeapMemory: 352321536
+2023-02-04 09:46:54,550 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-04 09:46:54,550 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-04 09:46:54,550 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 09:46:54,551 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 09:46:54,551 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-04 09:46:54,551 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,552 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,552 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,552 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,552 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,552 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,552 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,552 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,552 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,552 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 09:46:54,552 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,552 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 09:46:54,552 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-04 09:46:54,572 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-04 09:46:54,573 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2023-02-04 09:46:54,575 [INFO] PluginManage:292 - Check plugin analytics
+2023-02-04 09:46:54,583 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2023-02-04 09:46:54,583 [INFO] PluginManage:292 - Check plugin clock
+2023-02-04 09:46:54,596 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2023-02-04 09:46:54,596 [INFO] PluginManage:292 - Check plugin ddr
+2023-02-04 09:46:54,598 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2023-02-04 09:46:54,599 [INFO] PluginManage:292 - Check plugin filemanager
+2023-02-04 09:46:54,701 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2023-02-04 09:46:54,701 [INFO] PluginManage:292 - Check plugin ipmanager
+2023-02-04 09:46:54,709 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2023-02-04 09:46:54,709 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2023-02-04 09:46:54,717 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2023-02-04 09:46:54,717 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2023-02-04 09:46:54,736 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2023-02-04 09:46:54,736 [INFO] PluginManage:292 - Check plugin power
+2023-02-04 09:46:54,746 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2023-02-04 09:46:54,747 [INFO] PluginManage:292 - Check plugin projectmanager
+2023-02-04 09:46:54,759 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2023-02-04 09:46:54,759 [INFO] PluginManage:292 - Check plugin thirdparty
+2023-02-04 09:46:54,807 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 28 ms. number of Sw pack : 13
+2023-02-04 09:46:54,830 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2023-02-04 09:46:54,830 [INFO] PluginManage:292 - Check plugin tools
+2023-02-04 09:46:54,834 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2023-02-04 09:46:54,834 [INFO] PluginManage:292 - Check plugin updater
+2023-02-04 09:46:54,844 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2023-02-04 09:46:54,844 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2023-02-04 09:46:54,998 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-04 09:46:55,077 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,077 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2023-02-04 09:46:55,080 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,081 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2023-02-04 09:46:55,083 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,084 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2023-02-04 09:46:55,086 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,086 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2023-02-04 09:46:55,089 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,090 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2023-02-04 09:46:55,091 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,092 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2023-02-04 09:46:55,098 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,099 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2023-02-04 09:46:55,101 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,101 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2023-02-04 09:46:55,105 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,105 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2023-02-04 09:46:55,112 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,112 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2023-02-04 09:46:55,115 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,115 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2023-02-04 09:46:55,120 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,120 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2023-02-04 09:46:55,123 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,124 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2023-02-04 09:46:55,129 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,130 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2023-02-04 09:46:55,134 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,135 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2023-02-04 09:46:55,138 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,138 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2023-02-04 09:46:55,141 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,141 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2023-02-04 09:46:55,143 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,144 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2023-02-04 09:46:55,146 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,146 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2023-02-04 09:46:55,151 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,151 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2023-02-04 09:46:55,154 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,155 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2023-02-04 09:46:55,159 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,160 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2023-02-04 09:46:55,164 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,164 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2023-02-04 09:46:55,167 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,167 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2023-02-04 09:46:55,170 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,170 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2023-02-04 09:46:55,176 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,179 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2023-02-04 09:46:55,181 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,181 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2023-02-04 09:46:55,185 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,185 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2023-02-04 09:46:55,188 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,188 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2023-02-04 09:46:55,191 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,191 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2023-02-04 09:46:55,195 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,196 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2023-02-04 09:46:55,221 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,222 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2023-02-04 09:46:55,226 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,226 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2023-02-04 09:46:55,229 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,230 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2023-02-04 09:46:55,232 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,232 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2023-02-04 09:46:55,234 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,234 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2023-02-04 09:46:55,236 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,236 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2023-02-04 09:46:55,261 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 09:46:55,261 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2023-02-04 09:46:56,260 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: Windows
+2023-02-04 09:46:56,366 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-04 09:46:56,367 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2023-02-04 09:46:56,530 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-04 09:46:56,757 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-04 09:46:56,763 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-04 09:46:56,763 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-04 09:46:56,769 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-04 09:46:56,770 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-04 09:46:56,775 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2023-02-04 09:46:56,995 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-04 09:46:57,007 [INFO] Updater:886 - Updater Version found : 5.4.0
+2023-02-04 09:46:57,026 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-04 09:46:57,219 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-04 09:46:57,220 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2023-02-04 09:46:57,220 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2023-02-04 09:46:57,268 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2023-02-04 09:46:57,434 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-04 09:46:57,435 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2023-02-04 09:46:57,526 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2023-02-04 09:46:57,545 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2023-02-04 09:46:57,549 [INFO] DbMcusXml:106 - Load MCU database from C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2023-02-04 09:46:57,941 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-04 09:46:57,989 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 8 ms. number of Sw pack : 13
+2023-02-04 09:46:57,989 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-04 09:46:58,010 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2023-02-04 09:46:58,394 [INFO] DbMcusJson:87 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-04 09:46:59,579 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2023-02-04 09:46:59,581 [INFO] ApiDb:158 - Load user favorites file C:\Users\tonyb/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-02-04 09:46:59,581 [INFO] ApiDb:163 - User favorites MCUs=[]
+2023-02-04 09:46:59,581 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2023-02-04 09:47:00,133 [FATAL] DbMcusAds:50 - Exception caught
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:194)
+	at org.json.JSONObject.<init>(JSONObject.java:321)
+	at com.st.microxplorer.mcufinder.db.DbUtils.getJsonFromFile(DbUtils.java:111)
+	at com.st.microxplorer.mcufinder.db.DbMcusAds.GetAdsData(DbMcusAds.java:109)
+	at com.st.microxplorer.mcufinder.db.DbMcusAds.getDbManager(DbMcusAds.java:45)
+	at com.st.microxplorer.mcufinder.db.DbMcusAds.getMcuAd(DbMcusAds.java:86)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.getAdImagePath(McuDetailPanel.java:193)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.setInfoPanelWithAds(McuDetailPanel.java:177)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.init(McuDetailPanel.java:116)
+	at com.st.microxplorer.mcufinder.gui.selector.DetailPanel.<init>(DetailPanel.java:162)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.<init>(McuDetailPanel.java:88)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuMultiScanPanel.<init>(McuMultiScanPanel.java:160)
+	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.defineWindowsFields(MultiSelectorPanel.java:126)
+	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.<init>(MultiSelectorPanel.java:76)
+	at com.st.stm32cube.common.mx.targetselector.IdeMcuFinder.<init>(IdeMcuFinder.java:151)
+	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2$1.<init>(TargetSelectorAdapter.java:189)
+	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2.createSwingComponent(TargetSelectorAdapter.java:189)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:446)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.access$3(EmbeddedSwingComposite.java:430)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$3.run(EmbeddedSwingComposite.java:270)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:181)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2023-02-04 09:47:00,136 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-02-04 09:47:00,139 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+2023-02-04 09:47:00,140 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.json.JSONObject.<init>(JSONObject.java:194)
+2023-02-04 09:47:00,142 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.json.JSONObject.<init>(JSONObject.java:321)
+2023-02-04 09:47:00,143 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbUtils.getJsonFromFile(DbUtils.java:111)
+2023-02-04 09:47:00,145 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbMcusAds.GetAdsData(DbMcusAds.java:109)
+2023-02-04 09:47:00,146 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbMcusAds.getDbManager(DbMcusAds.java:45)
+2023-02-04 09:47:00,147 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbMcusAds.getMcuAd(DbMcusAds.java:86)
+2023-02-04 09:47:00,149 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.getAdImagePath(McuDetailPanel.java:193)
+2023-02-04 09:47:00,150 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.setInfoPanelWithAds(McuDetailPanel.java:177)
+2023-02-04 09:47:00,152 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.init(McuDetailPanel.java:116)
+2023-02-04 09:47:00,152 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.selector.DetailPanel.<init>(DetailPanel.java:162)
+2023-02-04 09:47:00,154 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.<init>(McuDetailPanel.java:88)
+2023-02-04 09:47:00,156 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuMultiScanPanel.<init>(McuMultiScanPanel.java:160)
+2023-02-04 09:47:00,158 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.defineWindowsFields(MultiSelectorPanel.java:126)
+2023-02-04 09:47:00,159 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.<init>(MultiSelectorPanel.java:76)
+2023-02-04 09:47:00,161 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.IdeMcuFinder.<init>(IdeMcuFinder.java:151)
+2023-02-04 09:47:00,163 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2$1.<init>(TargetSelectorAdapter.java:189)
+2023-02-04 09:47:00,165 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2.createSwingComponent(TargetSelectorAdapter.java:189)
+2023-02-04 09:47:00,166 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:446)
+2023-02-04 09:47:00,168 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.access$3(EmbeddedSwingComposite.java:430)
+2023-02-04 09:47:00,170 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$3.run(EmbeddedSwingComposite.java:270)
+2023-02-04 09:47:00,171 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:181)
+2023-02-04 09:47:00,172 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+2023-02-04 09:47:00,174 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+2023-02-04 09:47:00,175 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.access$500(EventQueue.java:97)
+2023-02-04 09:47:00,175 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:709)
+2023-02-04 09:47:00,176 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:703)
+2023-02-04 09:47:00,177 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.AccessController.doPrivileged(Native Method)
+2023-02-04 09:47:00,178 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+2023-02-04 09:47:00,180 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+2023-02-04 09:47:00,181 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+2023-02-04 09:47:00,183 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+2023-02-04 09:47:00,184 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+2023-02-04 09:47:00,186 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-02-04 09:47:00,187 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+2023-02-04 09:47:00,187 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2023-02-04 09:47:00,188 [WARN] McuDetailPanel:183 - Failed to get advertising image, set to default
+2023-02-04 09:47:00,613 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2023-02-04 09:47:00,753 [INFO] DbBoardsPdsc:92 - Found 19 items
+2023-02-04 09:47:00,757 [INFO] DbBoardsPdsc:92 - Found 9 items
+2023-02-04 09:47:00,764 [INFO] DbBoardsPdsc:92 - Found 27 items
+2023-02-04 09:47:00,768 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-04 09:47:00,775 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-04 09:47:00,780 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-04 09:47:00,783 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-04 09:47:00,845 [INFO] DbBoardsJson:79 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-04 09:47:00,855 [INFO] DbBoards:120 - Found 163 boards (132 are supported by CubeMX)
+2023-02-04 09:47:00,867 [INFO] DbBoardsDocs:118 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-04 09:47:00,873 [INFO] DbBoardsDocs:57 - Found 209 boards documents
+2023-02-04 09:47:00,874 [WARN] DbBoards:130 - board NUCLEO-H743ZI has no document id list !
+2023-02-04 09:47:00,876 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2023-02-04 09:47:00,877 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2023-02-04 09:47:00,877 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2023-02-04 09:47:00,878 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2023-02-04 09:47:00,878 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2023-02-04 09:47:00,879 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2023-02-04 09:47:00,880 [WARN] DbBoards:130 - board STM32439I-EVAL2 has no document id list !
+2023-02-04 09:47:00,880 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2023-02-04 09:47:00,880 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2023-02-04 09:47:00,881 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2023-02-04 09:47:00,881 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2023-02-04 09:47:00,882 [WARN] DbBoards:130 - board STEVAL-STWINKT1B has no document id list !
+2023-02-04 09:47:00,882 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2023-02-04 09:47:00,882 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2023-02-04 09:47:00,882 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2023-02-04 09:47:00,992 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-F413ZH: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-f413zh_small.jpg
+2023-02-04 09:47:01,046 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-L552ZE-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo_l552ze_q_small.jpg
+2023-02-04 09:47:01,242 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2023-02-04 09:47:01,479 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2023-02-04 09:47:01,834 [ERROR] DbBoards:192 - Image file not found for board B-L462E-CELL1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L462E-CELL1_small.jpg
+2023-02-04 09:47:01,840 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WL55JC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wl55jc-small.jpg
+2023-02-04 09:47:01,840 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2023-02-04 09:47:01,840 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2023-02-04 09:47:01,840 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-EVAL: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3ieval_small.jpg
+2023-02-04 09:47:01,843 [ERROR] DbBoards:192 - Image file not found for board STM32L4P5G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32l4p5g-dk_small.jpg
+2023-02-04 09:47:01,853 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2023-02-04 09:47:01,855 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB55RG: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb55rg_small.jpg
+2023-02-04 09:47:01,857 [ERROR] DbBoards:192 - Image file not found for board STM32G0C1E-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0c1e-eval_small.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB15CC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb15cc_small.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board STM32WB5MM-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32WB5MM-DK_small.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board B-U585I-IOT02A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-U585I-IOT02A_small.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-U575ZI-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-u575zi-q_small.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board STM32U575I-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32u575i-ev_small.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1B: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1b_small.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v1b.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V2: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v2b.jpg
+2023-02-04 09:47:01,859 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1_small.jpg
+2023-02-04 09:47:01,861 [INFO] ApiDb:158 - Load user favorites file C:\Users\tonyb/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2023-02-04 09:47:01,861 [INFO] ApiDb:163 - User favorites Boards=[]
+2023-02-04 09:47:01,861 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2023-02-04 09:47:01,918 [WARN] BoardDetailPanel:182 - Failed to get advertising image, set to default
+2023-02-04 09:47:01,942 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2023-02-04 09:47:02,053 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\tonyb\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2023-02-04 09:49:13,211 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-04 09:49:13,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2023-02-04 09:49:13,223 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2023-02-04 09:49:13,223 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2023-02-04 09:49:13,652 [WARN] McuDetailPanel:183 - Failed to get advertising image, set to default
+2023-02-04 09:49:13,845 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2023-02-04 09:49:13,953 [WARN] BoardDetailPanel:182 - Failed to get advertising image, set to default
+2023-02-04 09:49:13,960 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2023-02-04 09:49:13,970 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\tonyb\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2023-02-04 09:57:47,794 [INFO] Activator:176 - 
+
+
+2023-02-04 09:57:47,797 [INFO] Activator:177 - !SESSION log4j initialized
+2023-02-04 09:58:06,856 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket Closed
+2023-02-04 09:58:06,859 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2023-02-04 10:00:54,227 [INFO] Activator:176 - 
+
+
+2023-02-04 10:00:54,230 [INFO] Activator:177 - !SESSION log4j initialized
+2023-02-04 10:00:59,575 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-04 10:00:59,601 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-04 10:00:59,609 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-04 10:00:59,610 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 10:00:59,613 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 10:00:59,619 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-04 10:00:59,630 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,631 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,635 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,636 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,639 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,661 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-04 10:00:59,756 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2023-02-04 10:00:59,842 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2023-02-04 10:00:59,842 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-04 10:00:59,842 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-04 10:00:59,842 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 10:00:59,843 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 10:00:59,843 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-04 10:00:59,843 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,843 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,843 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,844 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,844 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,844 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,844 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,844 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,845 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,845 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,845 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,845 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,845 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-04 10:00:59,935 [INFO] MainPanel:185 - HeapMemory: 307232768
+2023-02-04 10:00:59,991 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-04 10:00:59,991 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-04 10:00:59,991 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 10:00:59,992 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-04 10:00:59,992 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-04 10:00:59,992 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,992 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,992 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,993 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,993 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,993 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,993 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,993 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,993 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,993 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-04 10:00:59,993 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,994 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-04 10:00:59,994 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-04 10:01:00,014 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-04 10:01:00,016 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2023-02-04 10:01:00,018 [INFO] PluginManage:292 - Check plugin analytics
+2023-02-04 10:01:00,023 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2023-02-04 10:01:00,023 [INFO] PluginManage:292 - Check plugin clock
+2023-02-04 10:01:00,033 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2023-02-04 10:01:00,034 [INFO] PluginManage:292 - Check plugin ddr
+2023-02-04 10:01:00,036 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2023-02-04 10:01:00,036 [INFO] PluginManage:292 - Check plugin filemanager
+2023-02-04 10:01:00,179 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2023-02-04 10:01:00,179 [INFO] PluginManage:292 - Check plugin ipmanager
+2023-02-04 10:01:00,186 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2023-02-04 10:01:00,187 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2023-02-04 10:01:00,195 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2023-02-04 10:01:00,196 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2023-02-04 10:01:00,213 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2023-02-04 10:01:00,213 [INFO] PluginManage:292 - Check plugin power
+2023-02-04 10:01:00,222 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2023-02-04 10:01:00,222 [INFO] PluginManage:292 - Check plugin projectmanager
+2023-02-04 10:01:00,233 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2023-02-04 10:01:00,234 [INFO] PluginManage:292 - Check plugin thirdparty
+2023-02-04 10:01:00,279 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 27 ms. number of Sw pack : 13
+2023-02-04 10:01:00,299 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2023-02-04 10:01:00,300 [INFO] PluginManage:292 - Check plugin tools
+2023-02-04 10:01:00,301 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2023-02-04 10:01:00,301 [INFO] PluginManage:292 - Check plugin updater
+2023-02-04 10:01:00,310 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2023-02-04 10:01:00,311 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2023-02-04 10:01:00,450 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-04 10:01:00,522 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,522 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2023-02-04 10:01:00,524 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,524 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2023-02-04 10:01:00,526 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,526 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2023-02-04 10:01:00,528 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,528 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2023-02-04 10:01:00,531 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,531 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2023-02-04 10:01:00,534 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,534 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2023-02-04 10:01:00,537 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,538 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2023-02-04 10:01:00,539 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,539 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2023-02-04 10:01:00,542 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,542 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2023-02-04 10:01:00,547 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,547 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2023-02-04 10:01:00,550 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,550 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2023-02-04 10:01:00,552 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,552 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2023-02-04 10:01:00,554 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,554 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2023-02-04 10:01:00,558 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,559 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2023-02-04 10:01:00,561 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,561 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2023-02-04 10:01:00,563 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,563 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2023-02-04 10:01:00,564 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,564 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2023-02-04 10:01:00,566 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,566 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2023-02-04 10:01:00,568 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,568 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2023-02-04 10:01:00,571 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,571 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2023-02-04 10:01:00,572 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,572 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2023-02-04 10:01:00,575 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,575 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2023-02-04 10:01:00,577 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,577 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2023-02-04 10:01:00,580 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,580 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2023-02-04 10:01:00,581 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,582 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2023-02-04 10:01:00,587 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,590 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2023-02-04 10:01:00,591 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,591 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2023-02-04 10:01:00,594 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,594 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2023-02-04 10:01:00,596 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,597 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2023-02-04 10:01:00,598 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,598 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2023-02-04 10:01:00,600 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,601 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2023-02-04 10:01:00,602 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,602 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2023-02-04 10:01:00,604 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,605 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2023-02-04 10:01:00,607 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,607 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2023-02-04 10:01:00,610 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,610 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2023-02-04 10:01:00,611 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,611 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2023-02-04 10:01:00,612 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,613 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2023-02-04 10:01:00,614 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-04 10:01:00,614 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2023-02-04 10:01:01,294 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: Windows
+2023-02-04 10:01:01,441 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-04 10:01:01,442 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2023-02-04 10:01:01,587 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-04 10:01:01,729 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-04 10:01:01,734 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-04 10:01:01,735 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-04 10:01:01,741 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-04 10:01:01,742 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-04 10:01:01,748 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2023-02-04 10:01:01,848 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-04 10:01:01,852 [INFO] Updater:886 - Updater Version found : 5.4.0
+2023-02-04 10:01:01,868 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-04 10:01:02,026 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-04 10:01:02,027 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2023-02-04 10:01:02,027 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2023-02-04 10:01:02,061 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2023-02-04 10:01:02,238 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-04 10:01:02,239 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2023-02-04 10:01:02,302 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2023-02-04 10:01:02,315 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2023-02-04 10:01:02,316 [INFO] DbMcusXml:106 - Load MCU database from C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2023-02-04 10:01:02,931 [INFO] DbMcusJson:87 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-04 10:01:03,414 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-04 10:01:03,523 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 19 ms. number of Sw pack : 13
+2023-02-04 10:01:03,523 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-04 10:01:03,546 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2023-02-04 10:01:04,155 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2023-02-04 10:01:04,156 [INFO] ApiDb:158 - Load user favorites file C:\Users\tonyb/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-02-04 10:01:04,156 [INFO] ApiDb:163 - User favorites MCUs=[]
+2023-02-04 10:01:04,156 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2023-02-04 10:01:05,086 [FATAL] DbMcusAds:50 - Exception caught
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+	at org.json.JSONObject.<init>(JSONObject.java:194)
+	at org.json.JSONObject.<init>(JSONObject.java:321)
+	at com.st.microxplorer.mcufinder.db.DbUtils.getJsonFromFile(DbUtils.java:111)
+	at com.st.microxplorer.mcufinder.db.DbMcusAds.GetAdsData(DbMcusAds.java:109)
+	at com.st.microxplorer.mcufinder.db.DbMcusAds.getDbManager(DbMcusAds.java:45)
+	at com.st.microxplorer.mcufinder.db.DbMcusAds.getMcuAd(DbMcusAds.java:86)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.getAdImagePath(McuDetailPanel.java:193)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.setInfoPanelWithAds(McuDetailPanel.java:177)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.init(McuDetailPanel.java:116)
+	at com.st.microxplorer.mcufinder.gui.selector.DetailPanel.<init>(DetailPanel.java:162)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.<init>(McuDetailPanel.java:88)
+	at com.st.microxplorer.mcufinder.gui.mcuselector.McuMultiScanPanel.<init>(McuMultiScanPanel.java:160)
+	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.defineWindowsFields(MultiSelectorPanel.java:126)
+	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.<init>(MultiSelectorPanel.java:76)
+	at com.st.stm32cube.common.mx.targetselector.IdeMcuFinder.<init>(IdeMcuFinder.java:151)
+	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2$1.<init>(TargetSelectorAdapter.java:189)
+	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2.createSwingComponent(TargetSelectorAdapter.java:189)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:446)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.access$3(EmbeddedSwingComposite.java:430)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$3.run(EmbeddedSwingComposite.java:270)
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:181)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2023-02-04 10:01:05,089 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+2023-02-04 10:01:05,090 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.json.JSONTokener.syntaxError(JSONTokener.java:433)
+2023-02-04 10:01:05,091 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.json.JSONObject.<init>(JSONObject.java:194)
+2023-02-04 10:01:05,092 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.json.JSONObject.<init>(JSONObject.java:321)
+2023-02-04 10:01:05,094 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbUtils.getJsonFromFile(DbUtils.java:111)
+2023-02-04 10:01:05,096 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbMcusAds.GetAdsData(DbMcusAds.java:109)
+2023-02-04 10:01:05,098 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbMcusAds.getDbManager(DbMcusAds.java:45)
+2023-02-04 10:01:05,099 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.db.DbMcusAds.getMcuAd(DbMcusAds.java:86)
+2023-02-04 10:01:05,101 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.getAdImagePath(McuDetailPanel.java:193)
+2023-02-04 10:01:05,103 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.setInfoPanelWithAds(McuDetailPanel.java:177)
+2023-02-04 10:01:05,105 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.init(McuDetailPanel.java:116)
+2023-02-04 10:01:05,106 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.selector.DetailPanel.<init>(DetailPanel.java:162)
+2023-02-04 10:01:05,120 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuDetailPanel.<init>(McuDetailPanel.java:88)
+2023-02-04 10:01:05,123 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.mcuselector.McuMultiScanPanel.<init>(McuMultiScanPanel.java:160)
+2023-02-04 10:01:05,124 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.defineWindowsFields(MultiSelectorPanel.java:126)
+2023-02-04 10:01:05,126 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcufinder.gui.selector.MultiSelectorPanel.<init>(MultiSelectorPanel.java:76)
+2023-02-04 10:01:05,127 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.IdeMcuFinder.<init>(IdeMcuFinder.java:151)
+2023-02-04 10:01:05,130 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2$1.<init>(TargetSelectorAdapter.java:189)
+2023-02-04 10:01:05,132 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$2.createSwingComponent(TargetSelectorAdapter.java:189)
+2023-02-04 10:01:05,134 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:446)
+2023-02-04 10:01:05,136 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.access$3(EmbeddedSwingComposite.java:430)
+2023-02-04 10:01:05,137 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$3.run(EmbeddedSwingComposite.java:270)
+2023-02-04 10:01:05,140 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:181)
+2023-02-04 10:01:05,141 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+2023-02-04 10:01:05,142 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+2023-02-04 10:01:05,143 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.access$500(EventQueue.java:97)
+2023-02-04 10:01:05,144 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:709)
+2023-02-04 10:01:05,145 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:703)
+2023-02-04 10:01:05,146 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.AccessController.doPrivileged(Native Method)
+2023-02-04 10:01:05,148 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+2023-02-04 10:01:05,150 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+2023-02-04 10:01:05,151 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+2023-02-04 10:01:05,153 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+2023-02-04 10:01:05,154 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+2023-02-04 10:01:05,155 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-02-04 10:01:05,156 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+2023-02-04 10:01:05,158 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2023-02-04 10:01:05,158 [WARN] McuDetailPanel:183 - Failed to get advertising image, set to default
+2023-02-04 10:01:05,723 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2023-02-04 10:01:05,862 [INFO] DbBoardsPdsc:92 - Found 19 items
+2023-02-04 10:01:05,865 [INFO] DbBoardsPdsc:92 - Found 9 items
+2023-02-04 10:01:05,866 [INFO] DbBoardsPdsc:92 - Found 27 items
+2023-02-04 10:01:05,867 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-04 10:01:05,871 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-04 10:01:05,876 [INFO] DbBoardsPdsc:92 - Found 38 items
+2023-02-04 10:01:05,878 [INFO] DbBoardsPdsc:92 - Found 1 items
+2023-02-04 10:01:05,925 [INFO] DbBoardsJson:79 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-04 10:01:05,935 [INFO] DbBoards:120 - Found 163 boards (132 are supported by CubeMX)
+2023-02-04 10:01:05,937 [INFO] DbBoardsDocs:118 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-04 10:01:05,949 [INFO] DbBoardsDocs:57 - Found 209 boards documents
+2023-02-04 10:01:05,950 [WARN] DbBoards:130 - board NUCLEO-H743ZI has no document id list !
+2023-02-04 10:01:05,952 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2023-02-04 10:01:05,952 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2023-02-04 10:01:05,953 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2023-02-04 10:01:05,953 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2023-02-04 10:01:05,954 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2023-02-04 10:01:05,954 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2023-02-04 10:01:05,955 [WARN] DbBoards:130 - board STM32439I-EVAL2 has no document id list !
+2023-02-04 10:01:05,956 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2023-02-04 10:01:05,957 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2023-02-04 10:01:05,957 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2023-02-04 10:01:05,957 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2023-02-04 10:01:05,959 [WARN] DbBoards:130 - board STEVAL-STWINKT1B has no document id list !
+2023-02-04 10:01:05,960 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2023-02-04 10:01:05,960 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2023-02-04 10:01:05,960 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2023-02-04 10:01:06,072 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-F413ZH: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-f413zh_small.jpg
+2023-02-04 10:01:06,110 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-L552ZE-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo_l552ze_q_small.jpg
+2023-02-04 10:01:06,299 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2023-02-04 10:01:06,493 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2023-02-04 10:01:06,793 [ERROR] DbBoards:192 - Image file not found for board B-L462E-CELL1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L462E-CELL1_small.jpg
+2023-02-04 10:01:06,797 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WL55JC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wl55jc-small.jpg
+2023-02-04 10:01:06,797 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2023-02-04 10:01:06,797 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2023-02-04 10:01:06,797 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-EVAL: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32h7b3ieval_small.jpg
+2023-02-04 10:01:06,799 [ERROR] DbBoards:192 - Image file not found for board STM32L4P5G-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32l4p5g-dk_small.jpg
+2023-02-04 10:01:06,810 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2023-02-04 10:01:06,813 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB55RG: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb55rg_small.jpg
+2023-02-04 10:01:06,816 [ERROR] DbBoards:192 - Image file not found for board STM32G0C1E-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0c1e-eval_small.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-WB15CC: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-wb15cc_small.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board STM32WB5MM-DK: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/STM32WB5MM-DK_small.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board B-U585I-IOT02A: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/B-U585I-IOT02A_small.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board NUCLEO-U575ZI-Q: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/nucleo-u575zi-q_small.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board STM32U575I-EV: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32u575i-ev_small.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1B: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1b_small.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v1b.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board STEVAL-IDP005V2: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-bfa001v2b.jpg
+2023-02-04 10:01:06,817 [ERROR] DbBoards:192 - Image file not found for board STEVAL-STWINKT1: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/steval-stwinkt1_small.jpg
+2023-02-04 10:01:06,818 [INFO] ApiDb:158 - Load user favorites file C:\Users\tonyb/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2023-02-04 10:01:06,818 [INFO] ApiDb:163 - User favorites Boards=[]
+2023-02-04 10:01:06,818 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2023-02-04 10:01:06,879 [WARN] BoardDetailPanel:182 - Failed to get advertising image, set to default
+2023-02-04 10:01:06,900 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2023-02-04 10:01:06,991 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\tonyb\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2023-02-07 19:47:55,564 [INFO] Activator:176 - 
+
+
+2023-02-07 19:47:55,566 [INFO] Activator:177 - !SESSION log4j initialized
+2023-02-07 19:49:07,801 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-07 19:49:07,814 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-07 19:49:07,819 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-07 19:49:07,819 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-07 19:49:07,820 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-07 19:49:07,822 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-07 19:49:07,834 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:07,835 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:07,837 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:07,837 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:07,839 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,220 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-07 19:49:08,316 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2023-02-07 19:49:08,393 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2023-02-07 19:49:08,394 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-07 19:49:08,394 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-07 19:49:08,395 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-07 19:49:08,395 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-07 19:49:08,395 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-07 19:49:08,395 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,395 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,396 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,396 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,396 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,396 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,396 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,396 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,397 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,397 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,397 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,397 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,397 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-07 19:49:08,453 [INFO] MainPanel:185 - HeapMemory: 714080256
+2023-02-07 19:49:08,512 [INFO] DbMcusXml:68 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2023-02-07 19:49:08,513 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2023-02-07 19:49:08,513 [INFO] DbMcus:265 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-07 19:49:08,513 [INFO] DbBoards:232 - Set plugin images path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2023-02-07 19:49:08,513 [INFO] APIGFXSelector:72 - Set database path to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2023-02-07 19:49:08,514 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,514 [INFO] DbMcusAds:72 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,514 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,515 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,515 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,515 [INFO] DbMcusJson:59 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,515 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,515 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,515 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,516 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/
+2023-02-07 19:49:08,516 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,516 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\tonyb\.stmcufinder\plugins\mcufinder/ => C:\Users\tonyb\.stmcufinder\plugins\mcufinder
+2023-02-07 19:49:08,516 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\tonyb\.stmcufinder\plugins\mcufinder//mcu/cs/
+2023-02-07 19:49:08,531 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-07 19:49:08,533 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2023-02-07 19:49:08,534 [INFO] PluginManage:292 - Check plugin analytics
+2023-02-07 19:49:08,561 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2023-02-07 19:49:08,562 [INFO] PluginManage:292 - Check plugin clock
+2023-02-07 19:49:08,580 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2023-02-07 19:49:08,580 [INFO] PluginManage:292 - Check plugin ddr
+2023-02-07 19:49:08,583 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2023-02-07 19:49:08,583 [INFO] PluginManage:292 - Check plugin filemanager
+2023-02-07 19:49:08,695 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2023-02-07 19:49:08,696 [INFO] PluginManage:292 - Check plugin ipmanager
+2023-02-07 19:49:08,703 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2023-02-07 19:49:08,703 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2023-02-07 19:49:08,718 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2023-02-07 19:49:08,718 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2023-02-07 19:49:08,743 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2023-02-07 19:49:08,744 [INFO] PluginManage:292 - Check plugin power
+2023-02-07 19:49:08,782 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2023-02-07 19:49:08,782 [INFO] PluginManage:292 - Check plugin projectmanager
+2023-02-07 19:49:08,794 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2023-02-07 19:49:08,794 [INFO] PluginManage:292 - Check plugin thirdparty
+2023-02-07 19:49:08,843 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 19 ms. number of Sw pack : 13
+2023-02-07 19:49:08,867 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2023-02-07 19:49:08,867 [INFO] PluginManage:292 - Check plugin tools
+2023-02-07 19:49:08,883 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2023-02-07 19:49:08,883 [INFO] PluginManage:292 - Check plugin updater
+2023-02-07 19:49:08,895 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2023-02-07 19:49:08,896 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2023-02-07 19:49:09,035 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-07 19:49:09,163 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,164 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2023-02-07 19:49:09,181 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,181 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2023-02-07 19:49:09,202 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,202 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2023-02-07 19:49:09,217 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,217 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2023-02-07 19:49:09,233 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,233 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2023-02-07 19:49:09,248 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,248 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2023-02-07 19:49:09,293 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,294 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2023-02-07 19:49:09,306 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,306 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2023-02-07 19:49:09,333 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,334 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2023-02-07 19:49:09,345 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,345 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2023-02-07 19:49:09,357 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,358 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2023-02-07 19:49:09,399 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,399 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2023-02-07 19:49:09,458 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,459 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2023-02-07 19:49:09,511 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,511 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2023-02-07 19:49:09,614 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,615 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2023-02-07 19:49:09,644 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,644 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2023-02-07 19:49:09,661 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,662 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2023-02-07 19:49:09,686 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,686 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2023-02-07 19:49:09,709 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,710 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2023-02-07 19:49:09,749 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,749 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2023-02-07 19:49:09,767 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,767 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2023-02-07 19:49:09,826 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,826 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2023-02-07 19:49:09,918 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,919 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2023-02-07 19:49:09,938 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,938 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2023-02-07 19:49:09,960 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:09,960 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2023-02-07 19:49:10,051 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,054 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2023-02-07 19:49:10,066 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,067 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2023-02-07 19:49:10,074 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,074 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2023-02-07 19:49:10,097 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,097 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2023-02-07 19:49:10,117 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,118 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2023-02-07 19:49:10,135 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,136 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2023-02-07 19:49:10,148 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,148 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2023-02-07 19:49:10,174 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,174 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2023-02-07 19:49:10,186 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,186 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2023-02-07 19:49:10,198 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,200 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2023-02-07 19:49:10,212 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,212 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2023-02-07 19:49:10,226 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,226 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2023-02-07 19:49:10,251 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:10,252 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2023-02-07 19:49:10,809 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: Windows
+2023-02-07 19:49:10,906 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-07 19:49:10,907 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2023-02-07 19:49:11,073 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-07 19:49:11,314 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-07 19:49:11,320 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-07 19:49:11,320 [FATAL] Updater:277 - Updater called before beeing initialized
+2023-02-07 19:49:11,324 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2023-02-07 19:49:11,324 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-07 19:49:11,329 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2023-02-07 19:49:11,659 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2023-02-07 19:49:11,682 [INFO] Updater:886 - Updater Version found : 5.4.0
+2023-02-07 19:49:11,696 [INFO] ApplicationProperties:181 - Using Application install path: C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2023-02-07 19:49:11,845 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-07 19:49:11,846 [INFO] MainUpdater:2859 - Updater definition file requires update
+2023-02-07 19:49:11,847 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2023-02-07 19:49:11,847 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2023-02-07 19:49:11,864 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2023-02-07 19:49:12,671 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2023-02-07 19:49:12,696 [INFO] FileExtend:210 - Unzip File : updaters.zip
+2023-02-07 19:49:12,696 [INFO] FileExtend:225 - Standard Zip Deflate
+2023-02-07 19:49:13,072 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2023-02-07 19:49:13,121 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2023-02-07 19:49:13,486 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-DISPLAY.pdsc
+2023-02-07 19:49:13,870 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-MEMS1.pdsc
+2023-02-07 19:49:14,829 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-AZRTOS-L5.pdsc
+2023-02-07 19:49:14,867 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2023-02-07 19:49:15,489 [INFO] ServerAccessManage:348 - Download File SEGGER.I-CUBE-embOS.pdsc
+2023-02-07 19:49:17,863 [INFO] ServerAccessManage:348 - Download File portGmbH.I-Cube-SoM-uGOAL.pdsc
+2023-02-07 19:49:17,879 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2023-02-07 19:49:19,296 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2023-02-07 19:49:19,729 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2023-02-07 19:49:19,974 [INFO] MainUpdater:2232 - connection check result : 10
+2023-02-07 19:49:19,975 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2023-02-07 19:49:20,151 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2023-02-07 19:49:20,189 [INFO] MicroXplorer:390 - Change Database Path : 
+2023-02-07 19:49:20,190 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2023-02-07 19:49:20,195 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-07 19:49:20,196 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 588486704 Bytes (1073741824)
+2023-02-07 19:49:20,205 [INFO] OpenFileManager:269 - Change cursor
+2023-02-07 19:49:20,892 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2023-02-07 19:49:20,892 [INFO] ServerAccessManage:348 - Download File emotas.I-CUBE-CANOPEN.pdsc
+2023-02-07 19:49:21,796 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2023-02-07 19:49:22,268 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (4000000)
+2023-02-07 19:49:22,497 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 514770664 Bytes (1073741824)
+2023-02-07 19:49:22,604 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-02-07 19:49:22,605 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-02-07 19:49:22,605 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-02-07 19:49:22,605 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-02-07 19:49:22,605 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-02-07 19:49:22,605 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-02-07 19:49:22,606 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.4.0
+2023-02-07 19:49:22,606 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-02-07 19:49:22,606 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-02-07 19:49:22,606 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-02-07 19:49:22,606 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-02-07 19:49:22,606 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-02-07 19:49:22,606 [INFO] ThirdParty:897 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-02-07 19:49:22,887 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2023-02-07 19:49:22,889 [INFO] PinOutPanel:1367 - setPackage(STM32F411VETx,LQFP100)
+2023-02-07 19:49:23,078 [INFO] LoadServerUpdatesThread:287 - End of LoadServerUpdate Thread
+2023-02-07 19:49:23,089 [WARN] PopulateThirdPartyThread:73 - Error populating pack: STMicroelectronics.X-CUBE-DISPLAY.pdsc
+2023-02-07 19:49:23,129 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2023-02-07 19:49:23,146 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,147 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,148 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,149 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,150 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,150 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,150 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,151 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,152 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,153 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,154 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,155 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,156 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,157 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,158 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,159 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,160 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,161 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,162 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,163 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,164 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,165 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,166 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,167 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,168 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,168 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,168 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,168 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,168 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,168 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,169 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,171 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,172 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,173 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,174 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,175 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,176 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,177 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,178 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,179 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,180 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,181 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,182 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,183 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,186 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,187 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,188 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,189 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,190 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,191 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,192 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,193 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,194 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,195 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,196 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,197 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,199 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,200 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,201 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,202 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,203 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,203 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,203 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,203 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,203 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,203 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,203 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,204 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,205 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,206 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,207 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,207 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,207 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,208 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,209 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,210 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,211 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,211 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,211 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,211 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,211 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,211 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:594 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,212 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:662 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,213 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,214 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,215 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,215 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,215 [INFO] MxPackages:628 - 
+2023-02-07 19:49:23,407 [INFO] UtilMem:74 - Before build in PCC Used Memory: 742611528 Bytes (1073741824)
+2023-02-07 19:49:23,485 [WARN] PopulateThirdPartyThread:73 - Error populating pack: STMicroelectronics.X-CUBE-AZRTOS-L5.pdsc
+2023-02-07 19:49:23,490 [WARN] PopulateThirdPartyThread:73 - Error populating pack: SEGGER.I-CUBE-embOS.pdsc
+2023-02-07 19:49:23,493 [WARN] PopulateThirdPartyThread:73 - Error populating pack: portGmbH.I-Cube-SoM-uGOAL.pdsc
+2023-02-07 19:49:23,496 [WARN] PopulateThirdPartyThread:73 - Error populating pack: emotas.I-CUBE-CANOPEN.pdsc
+2023-02-07 19:49:23,496 [INFO] PopulateThirdPartyThread:82 - Ending populate Thread
+2023-02-07 19:49:23,502 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-07 19:49:23,564 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 12 ms. number of Sw pack : 14
+2023-02-07 19:49:23,565 [INFO] Engine:437 - softwarePackList size : 14
+2023-02-07 19:49:23,571 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-AI have been done, and update is requested
+2023-02-07 19:49:23,580 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2023-02-07 19:49:23,588 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-BLE2 have been done, and update is requested
+2023-02-07 19:49:23,606 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-EEPRMA1 have been done, and update is requested
+2023-02-07 19:49:23,622 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2023-02-07 19:49:23,635 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-ISPU have been done, and update is requested
+2023-02-07 19:49:23,861 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/tonyb/.stm32cubemx/plugins/power
+2023-02-07 19:49:23,862 [INFO] UtilMem:74 - After build in PCC Used Memory: 891515480 Bytes (1073741824)
+2023-02-07 19:49:23,877 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:49:23,877 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,878 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,878 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,878 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,878 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,878 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,879 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,879 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,879 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,879 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,879 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,880 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,880 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,880 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,880 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,881 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,881 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,881 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,881 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,883 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,883 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,883 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,884 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,884 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,884 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,884 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,885 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,885 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,885 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,885 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,886 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,886 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,886 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,886 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,886 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,887 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,887 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,887 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2023-02-07 19:49:23,899 [WARN] IP:1925 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-02-07 19:49:23,900 [WARN] IP:1925 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-02-07 19:49:23,922 [INFO] I2sManager:616 - 1.6E8
+2023-02-07 19:49:23,922 [INFO] I2sManager:173 - I2S Clock Value : 1.6E8
+2023-02-07 19:49:23,923 [INFO] I2sManager:510 - AudioClock : 96153Divider : 26Odd : 0
+2023-02-07 19:49:23,925 [INFO] I2sManager:616 - 1.6E8
+2023-02-07 19:49:23,925 [INFO] I2sManager:173 - I2S Clock Value : 1.6E8
+2023-02-07 19:49:23,926 [INFO] I2sManager:510 - AudioClock : 89285Divider : 3Odd : 1
+2023-02-07 19:49:24,027 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-07 19:49:24,103 [INFO] ApiDbMcu:445 - Load IP Config File for FREERTOS
+2023-02-07 19:49:24,108 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 12 ms. number of Sw pack : 14
+2023-02-07 19:49:24,108 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-07 19:49:24,112 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:49:24,132 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2023-02-07 19:49:24,146 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2023-02-07 19:49:24,291 [INFO] OpenFileManager:289 - Restore cursor
+2023-02-07 19:49:24,296 [INFO] DbMcusXml:106 - Load MCU database from C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2023-02-07 19:49:24,296 [INFO] DbMcusXml:106 - Load MCU database from C:\RTOS\STM32CubeIDE_1.1.0\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2023-02-07 19:49:24,695 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2023-02-07 19:49:24,726 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 12 ms. number of Sw pack : 14
+2023-02-07 19:49:24,740 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2023-02-07 19:49:24,751 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-NFC7 have been done, and update is requested
+2023-02-07 19:49:24,771 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-SFXS2LP1 have been done, and update is requested
+2023-02-07 19:49:24,782 [INFO] Engine:453 - compute dependency for SwPack X-CUBE-TOUCHGFX have been done, no update is requested
+2023-02-07 19:49:24,786 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-ALGOBUILD have been done, and update is requested
+2023-02-07 19:49:24,805 [INFO] Engine:453 - compute dependency for SwPack I-CUBE-UNISONRTOS have been done, no update is requested
+2023-02-07 19:49:25,176 [INFO] DbMcusJson:87 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-07 19:49:25,191 [INFO] DbMcusJson:87 - JSON generation date=Tue Nov 16 11:17:54 EST 2021 (1637079474)
+2023-02-07 19:49:26,936 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2023-02-07 19:49:26,942 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2023-02-07 19:49:26,976 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/tonyb/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 6 ms. number of Sw pack : 14
+2023-02-07 19:49:27,181 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.4.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-02-07 19:49:27,182 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-02-07 19:49:27,183 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-02-07 19:49:27,183 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-02-07 19:49:27,183 [INFO] ThirdParty:897 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-02-07 19:49:27,183 [INFO] ThirdParty:897 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.5.0
+2023-02-07 19:49:27,879 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2023-02-07 19:49:27,879 [INFO] ApiDb:147 - User favorites file not found: C:\Users\tonyb/.stm32cubemx/favorites.mcus.txt
+2023-02-07 19:49:27,880 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2023-02-07 19:49:27,880 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2023-02-07 19:49:27,880 [INFO] ApiDb:147 - User favorites file not found: C:\Users\tonyb/.stm32cubemx/favorites.mcus.txt
+2023-02-07 19:49:27,881 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2023-02-07 19:49:28,025 [WARN] IP:1925 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-02-07 19:49:28,026 [WARN] IP:1925 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-02-07 19:49:28,027 [WARN] IP:1925 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-02-07 19:49:28,027 [WARN] IP:1925 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-02-07 19:49:28,037 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:49:28,094 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:49:39,662 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:49:45,239 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:49:45,400 [ERROR] RtosPanel:506 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-02-07 19:50:25,563 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:50:40,462 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:50:51,073 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 19:51:09,828 [INFO] BlockDiagram:1827 - stop enableDisableButtons
+2023-02-07 20:00:35,677 [INFO] Activator:176 - 
+
+
+2023-02-07 20:00:35,680 [INFO] Activator:177 - !SESSION log4j initialized

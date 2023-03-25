@@ -1,0 +1,17 @@
+15:44:23 **** Incremental Build of configuration Debug for project Exercise_22 ****
+make -j16 all 
+arm-none-eabi-gcc "../Core/Src/stm32f4xx_it.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F411xE -DDEBUG -c -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I../Drivers/CMSIS/Include -I../Core/Inc -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/stm32f4xx_it.d" -MT"Core/Src/stm32f4xx_it.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/stm32f4xx_it.o"
+arm-none-eabi-g++ -o "Exercise_22.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\RIT_Spring2023\RTOS_CPET461_RIT\RTOS_workspace\Exercise_22\STM32F411VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Exercise_22.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: Exercise_22.elf
+ 
+arm-none-eabi-objdump -h -S  Exercise_22.elf  > "Exercise_22.list"
+arm-none-eabi-size   Exercise_22.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18256	     24	  18248	  36528	   8eb0	Exercise_22.elf
+Finished building: default.size.stdout
+ 
+Finished building: Exercise_22.list
+ 
+
+15:44:25 Build Finished. 0 errors, 0 warnings. (took 1s.823ms)
+

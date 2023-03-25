@@ -1,0 +1,11 @@
+main.c:85:5:main	72	static
+main.c:167:6:SystemClock_Config	112	static
+main.c:219:13:MX_I2C1_Init	8	static
+main.c:253:13:MX_I2S2_Init	8	static
+main.c:287:13:MX_I2S3_Init	8	static
+main.c:321:13:MX_SPI1_Init	8	static
+main.c:359:13:MX_GPIO_Init	56	static
+main.c:455:6:Start_Blue_Green_Task	24	static
+main.c:481:6:Start_Orange_Red_Task	24	static
+main.c:508:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:525:6:Error_Handler	4	static

@@ -1,0 +1,80 @@
+/*THREADS*/
+
+GreenLED_Task
+Start_GreenLED_Task
+
+RedLED_Task
+Start_RedLED_Task
+
+OrangeLED_Task
+Start_OrangeLED_Task
+
+/*THREADS*/
+
+/*CODE*/
+#define green GPIO_PIN_12
+#define orange GPIO_PIN_13
+#define red GPIO_PIN_14
+#define blue GPIO_PIN_15
+
+void Access_Function()
+{
+	if (Start_Flag == 1)
+	{
+		Start_Flag = 0;
+	}
+	else
+	{
+		HAL_GPIO_TogglePin(GPIOD, blue);
+	}
+	for(int i = 0; i < 500000; i++);
+	Start_Flag = 1;
+}
+
+
+void Start_GreenLED_Task(void const * argument)
+{
+  /* USER CODE BEGIN 5 */
+  /* Infinite loop */
+  for(;;)
+  {
+	  HAL_GPIO_WritePin(GPIOD, green, GPIO_PIN_SET);
+	  osSemaphoreWait(CriticalResourceSemaphoreHandle, 1000);// semaphore P (wait for 1000 ms)
+	  Access_Function();
+	  osSemaphoreRelease(CriticalResourceSemaphoreHandle);// semaphore V (resume)
+	  vTaskDelay(200);
+	  HAL_GPIO_WritePin(GPIOD, green, GPIO_PIN_RESET);
+	  vTaskDelay(200);
+  }
+}  
+  /* USER CODE END 5 */ 
+
+
+void Start_RedLED_Task(void const * argument)
+{
+  /* USER CODE BEGIN Start_RedLED_Task */
+  /* Infinite loop */
+  for(;;)
+  {
+	  HAL_GPIO_WritePin(GPIOD, red, GPIO_PIN_SET);
+	  osSemaphoreWait(CriticalResourceSemaphoreHandle, 1000);// semaphore P (wait for 1000 ms)
+	  Access_Function();
+	  osSemaphoreRelease(CriticalResourceSemaphoreHandle);// semaphore V (resume)
+	  vTaskDelay(550);
+	  HAL_GPIO_WritePin(GPIOD, red, GPIO_PIN_RESET);
+	  vTaskDelay(550);
+  }
+  /* USER CODE END Start_RedLED_Task */
+}
+
+void Start_OrangeLED_Task(void const * argument)
+{
+  /* USER CODE BEGIN Start_OrangeLED_Task */
+  /* Infinite loop */
+  for(;;)
+  {
+	  HAL_GPIO_TogglePin(GPIOD, orange);
+	  vTaskDelay(50);
+  }
+  /* USER CODE END Start_OrangeLED_Task */
+}
