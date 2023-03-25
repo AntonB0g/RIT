@@ -1,2 +1,3 @@
 # RIT
-Repo for RIT courses materials
+Repo for RIT courses material
+
